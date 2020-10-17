@@ -10,7 +10,7 @@
                     img-top
                     tag="article"
                     style="max-width: 20rem;"
-                    class="mb-4"
+                    class="mb-5"
                     >
                 </b-card>
             </b-col>
